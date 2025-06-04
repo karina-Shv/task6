@@ -1,4 +1,3 @@
-
 const startBtn = document.querySelector("[data-start]");
 const dateTimePicker = document.querySelector("#datetime-picker");
 const daysSpan = document.querySelector("[data-days]");
